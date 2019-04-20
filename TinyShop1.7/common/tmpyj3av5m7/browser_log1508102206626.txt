@@ -1,0 +1,430 @@
+{"level":"INFO","message":"Could not read chrome manifest 'file:///C:/Program%20Files/Mozilla%20Firefox/chrome.manifest'.\n","timestamp":1511894187290,"type":""}
+{"level":"INFO","message":"1511894185872\taddons.manager\tDEBUG\tApplication has been upgraded\n","timestamp":1511894187297,"type":""}
+{"level":"INFO","message":"1511894185897\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: [\"XPIProvider\"]\n","timestamp":1511894187298,"type":""}
+{"level":"INFO","message":"1511894185898\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: [\"LightweightThemeManager\"]\n","timestamp":1511894187299,"type":""}
+{"level":"INFO","message":"1511894185901\taddons.xpi\tDEBUG\tstartup\n","timestamp":1511894187301,"type":""}
+{"level":"INFO","message":"1511894185903\taddons.xpi\tINFO\tMapping fxdriver@googlecode.com to C:\\Users\\Administrator\\PycharmProjects\\TinyShop1.7\\common\\tmpyj3av5m7\\extensions\\fxdriver@googlecode.com\n","timestamp":1511894187302,"type":""}
+{"level":"INFO","message":"1511894185907\taddons.xpi\tINFO\tMapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1511894187304,"type":""}
+{"level":"INFO","message":"1511894185908\taddons.xpi\tDEBUG\tSkipping unavailable install location app-system-share\n","timestamp":1511894187306,"type":""}
+{"level":"INFO","message":"1511894185908\taddons.xpi\tDEBUG\tSkipping unavailable install location app-system-local\n","timestamp":1511894187307,"type":""}
+{"level":"INFO","message":"1511894185908\taddons.xpi\tDEBUG\tcheckForChanges\n","timestamp":1511894187308,"type":""}
+{"level":"INFO","message":"1511894185909\taddons.xpi\tDEBUG\tLoaded add-on state from prefs: {}\n","timestamp":1511894187310,"type":""}
+{"level":"INFO","message":"1511894185910\taddons.xpi\tDEBUG\tNew add-on fxdriver@googlecode.com in app-profile\n","timestamp":1511894187312,"type":""}
+{"level":"INFO","message":"1511894185910\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of fxdriver@googlecode.com\n","timestamp":1511894187313,"type":""}
+{"level":"INFO","message":"1511894185951\taddons.xpi\tDEBUG\tNew add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global\n","timestamp":1511894187314,"type":""}
+{"level":"INFO","message":"1511894185951\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1511894187315,"type":""}
+{"level":"INFO","message":"1511894185957\taddons.xpi\tDEBUG\tgetInstallState changed: true, state: {\"app-profile\":{\"fxdriver@googlecode.com\":{\"d\":\"C:\\\\Users\\\\Administrator\\\\PycharmProjects\\\\TinyShop1.7\\\\common\\\\tmpyj3av5m7\\\\extensions\\\\fxdriver@googlecode.com\",\"st\":1511894184890,\"mt\":1511894184869}},\"app-global\":{\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\":{\"d\":\"C:\\\\Program Files\\\\Mozilla Firefox\\\\browser\\\\extensions\\\\{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"st\":1511634460652,\"mt\":1429136986000}}}\n","timestamp":1511894187317,"type":""}
+{"level":"INFO","message":"1511894185972\taddons.xpi-utils\tDEBUG\tOpening XPI database C:\\Users\\Administrator\\PycharmProjects\\TinyShop1.7\\common\\tmpyj3av5m7\\extensions.json\n","timestamp":1511894187318,"type":""}
+{"level":"INFO","message":"1511894185980\taddons.xpi\tDEBUG\tNew add-on fxdriver@googlecode.com installed in app-profile\n","timestamp":1511894187319,"type":""}
+{"level":"INFO","message":"Blocklist::_loadBlocklistFromFile: blocklist is disabled\n","timestamp":1511894187321,"type":""}
+{"level":"INFO","message":"1511894186046\taddons.xpi-utils\tDEBUG\tMake addon app-profile:fxdriver@googlecode.com visible\n","timestamp":1511894187322,"type":""}
+{"level":"INFO","message":"1511894186047\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511894187324,"type":""}
+{"level":"INFO","message":"1511894186047\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511894187325,"type":""}
+{"level":"INFO","message":"1511894186047\taddons.xpi\tDEBUG\tUpdating XPIState for {\"id\":\"fxdriver@googlecode.com\",\"syncGUID\":\"yFiZv1O7rmFJ\",\"location\":\"app-profile\",\"version\":\"2.53.0\",\"type\":\"extension\",\"internalName\":null,\"updateURL\":null,\"updateKey\":null,\"optionsURL\":null,\"optionsType\":null,\"aboutURL\":null,\"iconURL\":null,\"icon64URL\":null,\"defaultLocale\":{\"name\":\"Firefox WebDriver\",\"description\":\"WebDriver implementation for Firefox\",\"creator\":\"Simon Stewart\",\"homepageURL\":null},\"visible\":true,\"active\":true,\"userDisabled\":false,\"appDisabled\":false,\"descriptor\":\"C:\\\\Users\\\\Administrator\\\\PycharmProjects\\\\TinyShop1.7\\\\common\\\\tmpyj3av5m7\\\\extensions\\\\fxdriver@googlecode.com\",\"installDate\":1511894184890,\"updateDate\":1511894184890,\"applyBackgroundUpdates\":1,\"bootstrap\":false,\"size\":3249525,\"sourceURI\":null,\"releaseNotesURI\":null,\"softDisabled\":false,\"foreignInstall\":true,\"hasBinaryComponents\":true,\"strictCompatibility\":false,\"locales\":[],\"targetApplications\":[{\"id\":\"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\",\"minVersion\":\"3.0\",\"maxVersion\":\"47.0\"}],\"targetPlatforms\":[{\"os\":\"Darwin\",\"abi\":null},{\"os\":\"SunOS\",\"abi\":null},{\"os\":\"FreeBSD\",\"abi\":null},{\"os\":\"OpenBSD\",\"abi\":null},{\"os\":\"WINNT\",\"abi\":null},{\"os\":\"Linux\",\"abi\":null}],\"multiprocessCompatible\":false}\n","timestamp":1511894187327,"type":""}
+{"level":"INFO","message":"1511894186047\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of fxdriver@googlecode.com\n","timestamp":1511894187329,"type":""}
+{"level":"INFO","message":"1511894186073\taddons.xpi\tDEBUG\tNew add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global\n","timestamp":1511894187330,"type":""}
+{"level":"INFO","message":"1511894186079\taddons.xpi-utils\tDEBUG\tMake addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible\n","timestamp":1511894187331,"type":""}
+{"level":"INFO","message":"1511894186079\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511894187332,"type":""}
+{"level":"INFO","message":"1511894186079\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511894187333,"type":""}
+{"level":"INFO","message":"1511894186079\taddons.xpi\tDEBUG\tUpdating XPIState for {\"id\":\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"syncGUID\":\"8cF4S01mBTzH\",\"location\":\"app-global\",\"version\":\"37.0.2\",\"type\":\"theme\",\"internalName\":\"classic/1.0\",\"updateURL\":null,\"updateKey\":null,\"optionsURL\":null,\"optionsType\":null,\"aboutURL\":null,\"iconURL\":null,\"icon64URL\":null,\"defaultLocale\":{\"name\":\"Default\",\"description\":\"The default theme.\",\"creator\":\"Mozilla\",\"homepageURL\":null,\"contributors\":[\"Mozilla Contributors\"]},\"visible\":true,\"active\":true,\"userDisabled\":false,\"appDisabled\":false,\"descriptor\":\"C:\\\\Program Files\\\\Mozilla Firefox\\\\browser\\\\extensions\\\\{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"installDate\":1511634460652,\"updateDate\":1511634460652,\"applyBackgroundUpdates\":1,\"skinnable\":true,\"size\":3175,\"sourceURI\":null,\"releaseNotesURI\":null,\"softDisabled\":false,\"foreignInstall\":false,\"hasBinaryComponents\":false,\"strictCompatibility\":true,\"locales\":[],\"targetApplications\":[{\"id\":\"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\",\"minVersion\":\"37.0.2\",\"maxVersion\":\"37.0.2\"}],\"targetPlatforms\":[]}\n","timestamp":1511894187335,"type":""}
+{"level":"INFO","message":"1511894186079\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1511894187336,"type":""}
+{"level":"INFO","message":"1511894186082\taddons.xpi\tDEBUG\tUpdating database with changes to installed add-ons\n","timestamp":1511894187338,"type":""}
+{"level":"INFO","message":"1511894186082\taddons.xpi-utils\tDEBUG\tUpdating add-on states\n","timestamp":1511894187339,"type":""}
+{"level":"INFO","message":"1511894186085\taddons.xpi-utils\tDEBUG\tWriting add-ons list\n","timestamp":1511894187340,"type":""}
+{"level":"INFO","message":"1511894186098\taddons.manager\tDEBUG\tRegistering shutdown blocker for XPIProvider\n","timestamp":1511894187341,"type":""}
+{"level":"INFO","message":"1511894186099\taddons.manager\tDEBUG\tRegistering shutdown blocker for LightweightThemeManager\n","timestamp":1511894187343,"type":""}
+{"level":"INFO","message":"1511894186101\taddons.manager\tDEBUG\tRegistering shutdown blocker for GMPProvider\n","timestamp":1511894187344,"type":""}
+{"level":"INFO","message":"1511894186101\taddons.manager\tDEBUG\tRegistering shutdown blocker for PluginProvider\n","timestamp":1511894187345,"type":""}
+{"level":"WARNING","message":"Trying to re-register CID '{e26dbdcd-d3ba-4ded-88c3-6cb07ee3e9e0}' already registered by file:///C:/Users/Administrator/PycharmProjects/TinyShop1.7/common/tmpyj3av5m7/extensions/fxdriver@googlecode.com/components/prompt-service.js.","timestamp":1511894187346,"type":""}
+{"level":"INFO","message":"Native module at path 'C:\\Users\\Administrator\\PycharmProjects\\TinyShop1.7\\common\\tmpyj3av5m7\\extensions\\fxdriver@googlecode.com\\platform\\WINNT_x86-msvc\\components\\imehandler.dll' doesn't export symbol `NSModule`.\n","timestamp":1511894187348,"type":""}
+{"level":"INFO","message":"Could not read chrome manifest 'file:///C:/Program%20Files/Mozilla%20Firefox/browser/extensions/%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D/chrome.manifest'.\n","timestamp":1511894187349,"type":""}
+{"level":"INFO","message":"Warning: unrecognized command line flag -foreground\n","timestamp":1511894187351,"type":""}
+{"level":"INFO","message":"1511894186602\tDeferredSave.extensions.json\tDEBUG\tStarting timer\n","timestamp":1511894187352,"type":""}
+{"level":"INFO","message":"1511894186642\tDeferredSave.extensions.json\tDEBUG\tStarting write\n","timestamp":1511894187353,"type":""}
+{"level":"INFO","message":"1511894186808\tDeferredSave.extensions.json\tDEBUG\tWrite succeeded\n","timestamp":1511894187355,"type":""}
+{"level":"INFO","message":"1511894186808\taddons.xpi-utils\tDEBUG\tXPI Database saved, setting schema version preference to 16\n","timestamp":1511894187356,"type":""}
+{"level":"INFO","message":"1511894187910\taddons.manager\tDEBUG\tRegistering shutdown blocker for <unnamed-provider>\n","timestamp":1511894187956,"type":""}
+{"level":"INFO","message":"1511894187914\taddons.repository\tDEBUG\tNo addons.json found.\n","timestamp":1511894187964,"type":""}
+{"level":"INFO","message":"1511894187914\tDeferredSave.addons.json\tDEBUG\tSave changes\n","timestamp":1511894187968,"type":""}
+{"level":"INFO","message":"1511894187919\tDeferredSave.addons.json\tDEBUG\tStarting timer\n","timestamp":1511894187970,"type":""}
+{"level":"INFO","message":"1511894188058\tDeferredSave.addons.json\tDEBUG\tStarting write\n","timestamp":1511894188060,"type":""}
+{"level":"INFO","message":"1511894188074\tDeferredSave.addons.json\tDEBUG\tWrite succeeded\n","timestamp":1511894188074,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-box-shadow'。  声明被丢弃。","timestamp":1511894188329,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894188337,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188339,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188341,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188344,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188346,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188348,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188351,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188353,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188356,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188357,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188359,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188361,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894188363,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188365,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188370,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188373,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894188375,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188379,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188382,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894188384,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188397,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188399,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188426,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188427,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188429,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894188430,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894188432,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188433,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188434,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894188436,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894188437,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894188439,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894188441,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894188442,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894188444,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894188445,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894188450,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188453,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188454,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188455,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188457,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894188458,"type":""}
+{"level":"WARNING","message":"密码字段出现在一个不安全的 http:// 页面中。这是一个可能导致用户登录凭据被窃取的安全风险。","timestamp":1511894188496,"type":""}
+{"level":"WARNING","message":"密码字段出现在一个不安全的 http:// 表单动作中。这是一个可能导致用户登录凭据被窃取的安全风险。","timestamp":1511894188512,"type":""}
+{"level":"WARNING","message":"所用的 getAttributeNode() 已不赞成使用。请使用 getAttribute() 替代。","timestamp":1511894188762,"type":""}
+{"level":"WARNING","message":"键盘事件在某些键盘布局中不存在：key=\"c\" modifiers=\"accel,alt\"","timestamp":1511894188849,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894189302,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189304,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189306,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189307,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189309,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189311,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189312,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189314,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189315,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189318,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189320,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189322,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894189323,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189325,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189326,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189327,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894189329,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189330,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189331,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894189333,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894189335,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189338,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189341,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189342,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189345,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189349,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189353,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189354,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189356,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189357,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189358,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894189359,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894189360,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189361,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189363,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189364,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894189365,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894189366,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894189368,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894189369,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894189370,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894189371,"type":""}
+{"level":"WARNING","message":"解析 'min-width' 的值时出错。  声明被丢弃。","timestamp":1511894189469,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189471,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189472,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189473,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189475,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '/'。  解析 'font-family' 的值时出错。  声明被丢弃。","timestamp":1511894189476,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894189477,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894189478,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894190033,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190037,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190040,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190042,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190044,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190046,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190049,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190051,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190053,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190056,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190066,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190071,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894190073,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190075,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190076,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190078,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894190080,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190082,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190084,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190087,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894190106,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190107,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190108,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190110,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190111,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190112,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190115,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190117,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190119,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190121,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190123,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894190125,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894190127,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190129,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190131,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190133,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894190135,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894190137,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894190138,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894190140,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894190142,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894190144,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190181,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190183,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190185,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190187,"type":""}
+{"level":"WARNING","message":"解析 'min-width' 的值时出错。  声明被丢弃。","timestamp":1511894190258,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190260,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190261,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190262,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190263,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '/'。  解析 'font-family' 的值时出错。  声明被丢弃。","timestamp":1511894190264,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190266,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190267,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190296,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894190691,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190700,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190703,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190705,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190707,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190710,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190713,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190714,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190716,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190718,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190720,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190722,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894190723,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190725,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190728,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190731,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894190733,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190735,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190737,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190740,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894190742,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190744,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190745,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190747,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190749,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190752,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190753,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190755,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190757,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190758,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190760,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894190761,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894190763,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190765,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190767,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190768,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894190770,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894190772,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894190773,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894190775,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894190776,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894190777,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190796,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190808,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190811,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894190813,"type":""}
+{"level":"WARNING","message":"解析 'min-width' 的值时出错。  声明被丢弃。","timestamp":1511894190838,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190839,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190840,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190842,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190843,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '/'。  解析 'font-family' 的值时出错。  声明被丢弃。","timestamp":1511894190846,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894190847,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190848,"type":""}
+{"level":"WARNING","message":"解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894190918,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894190992,"type":""}
+{"level":"INFO","message":"[Exception... \"Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIRequest.status]\"  nsresult: \"0x80004001 (NS_ERROR_NOT_IMPLEMENTED)\"  location: \"JS frame :: file:///C:/Users/Administrator/PycharmProjects/TinyShop1.7/common/tmpyj3av5m7/extensions/fxdriver@googlecode.com/components/command-processor.js :: PatientListener.prototype.onStateChange :: line 5100\"  data: no]","timestamp":1511894191464,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894191768,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191789,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191791,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191792,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191793,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191794,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191796,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191797,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191798,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191800,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191801,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191802,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894191807,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191810,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191811,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191812,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894191814,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191815,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191816,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894191818,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-box-shadow'。  声明被丢弃。","timestamp":1511894191820,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894191824,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191826,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191827,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191830,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191832,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191833,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191836,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191838,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191840,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191841,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191843,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894191844,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894191845,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894191846,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191848,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894191849,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894191850,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894191851,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894191852,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894191854,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894191855,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894191856,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894192138,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192162,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192164,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192165,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192166,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192167,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192169,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192170,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192171,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192173,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192174,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192175,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894192176,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192178,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192179,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192180,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894192182,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192183,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192184,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192186,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-box-shadow'。  声明被丢弃。","timestamp":1511894192187,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894192189,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192190,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192191,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192193,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192194,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192195,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192201,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192205,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192207,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192208,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192209,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894192210,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894192212,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192213,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192214,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192215,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894192216,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894192218,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894192219,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894192221,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894192222,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894192223,"type":""}
+{"level":"WARNING","message":"解析 'min-width' 的值时出错。  声明被丢弃。","timestamp":1511894192332,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192336,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192338,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192339,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192340,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '/'。  解析 'font-family' 的值时出错。  声明被丢弃。","timestamp":1511894192342,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192343,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192345,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192347,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511894192826,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192835,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192837,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192838,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192840,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192841,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192862,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192864,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192865,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192866,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192868,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192869,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511894192870,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192872,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192873,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192875,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511894192876,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192877,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192878,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511894192880,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-box-shadow'。  声明被丢弃。","timestamp":1511894192881,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511894192885,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192888,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192890,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192892,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192894,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192896,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192899,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192901,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192903,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192904,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192906,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511894192907,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511894192909,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894192910,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192912,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192913,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511894192914,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511894192916,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511894192917,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511894192918,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511894192920,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511894192921,"type":""}
+{"level":"WARNING","message":"解析 'min-width' 的值时出错。  声明被丢弃。","timestamp":1511894192995,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192997,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894192999,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894193001,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894193002,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '/'。  解析 'font-family' 的值时出错。  声明被丢弃。","timestamp":1511894193003,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511894193004,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894193006,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'top'。  解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193007,"type":""}
+{"level":"WARNING","message":"解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193008,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894193009,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'top'。  解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193010,"type":""}
+{"level":"WARNING","message":"解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193011,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894193012,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894193014,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'top'。  解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193015,"type":""}
+{"level":"WARNING","message":"解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193016,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894193017,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'top'。  解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193018,"type":""}
+{"level":"WARNING","message":"解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193020,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 '#\\30 00\\9 '。  解析 'background' 的值时出错。  声明被丢弃。","timestamp":1511894193021,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511894193022,"type":""}
+{"level":"INFO","message":"1511894196878\taddons.manager\tDEBUG\tshutdown\n","timestamp":1511894196885,"type":""}
+{"level":"INFO","message":"1511894196879\taddons.manager\tDEBUG\tCalling shutdown blocker for XPIProvider\n","timestamp":1511894196887,"type":""}
+{"level":"INFO","message":"1511894196879\taddons.xpi\tDEBUG\tshutdown\n","timestamp":1511894196888,"type":""}
+{"level":"INFO","message":"1511894196879\taddons.xpi-utils\tDEBUG\tshutdown\n","timestamp":1511894196890,"type":""}
+{"level":"INFO","message":"1511894196879\taddons.manager\tDEBUG\tCalling shutdown blocker for LightweightThemeManager\n","timestamp":1511894196891,"type":""}
+{"level":"INFO","message":"1511894196880\taddons.manager\tDEBUG\tCalling shutdown blocker for GMPProvider\n","timestamp":1511894196892,"type":""}
+{"level":"INFO","message":"1511894196881\taddons.manager\tDEBUG\tCalling shutdown blocker for PluginProvider\n","timestamp":1511894196894,"type":""}
+{"level":"INFO","message":"1511894196881\taddons.manager\tDEBUG\tCalling shutdown blocker for <unnamed-provider>\n","timestamp":1511894196895,"type":""}
+{"level":"INFO","message":"1511894196883\taddons.xpi\tDEBUG\tNotifying XPI shutdown observers\n","timestamp":1511894196896,"type":""}
+{"level":"INFO","message":"1511894196884\taddons.manager\tDEBUG\tAsync provider shutdown done\n","timestamp":1511894196897,"type":""}

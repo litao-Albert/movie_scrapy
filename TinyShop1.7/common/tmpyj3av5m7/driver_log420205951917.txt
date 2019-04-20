@@ -1,0 +1,148 @@
+{"level":"INFO","message":"[fxdriver.badCertListener] Found preference for webdriver_assume_untrusted_issuer: true","timestamp":1511894187386,"type":""}
+{"level":"INFO","message":"[fxdriver.badCertListener] Found preference for webdriver_accept_untrusted_certs: true","timestamp":1511894187392,"type":""}
+{"level":"INFO","message":"[fxdriver.WdCertOverrideService] Accept untrusted certificates: true","timestamp":1511894187393,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] Loading: resource://fxdriver/evaluate.js","timestamp":1511894187465,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] Done reading: resource://fxdriver/evaluate.js","timestamp":1511894187468,"type":""}
+{"level":"INFO","message":"[fxdriver.ServerFactory] Driven by WebDriver version 2.53.0","timestamp":1511894187920,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: newSession","timestamp":1511894187977,"type":""}
+{"level":"INFO","message":"[fxdriver.wdSessionStoreService] Setting preferences based on required capabilities","timestamp":1511894188049,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Created a new session with id: f4e784fb-73d5-4526-a461-f7599fdbba4c","timestamp":1511894188051,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: maximizeWindow","timestamp":1511894188081,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: get","timestamp":1511894188182,"type":""}
+{"level":"INFO","message":"[fxdriver.wdSession] setWaitForPageLoad false","timestamp":1511894188183,"type":""}
+{"level":"INFO","message":"[fxdriver.wdSession] setWaitForPageLoad true","timestamp":1511894188186,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894188565,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: implicitlyWait","timestamp":1511894188673,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894188710,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clearElement","timestamp":1511894188770,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894188795,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: sendKeysToElement","timestamp":1511894188808,"type":""}
+{"level":"INFO","message":"[fxdriver.WebElement] No need to switch focus","timestamp":1511894188818,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] Doing sendKeys...","timestamp":1511894188832,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894188870,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clearElement","timestamp":1511894188884,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894188904,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: sendKeysToElement","timestamp":1511894188923,"type":""}
+{"level":"INFO","message":"[fxdriver.WebElement] No need to switch focus","timestamp":1511894188933,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] Doing sendKeys...","timestamp":1511894188946,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894188961,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894188987,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move [object HTMLButtonElement] 155 21","timestamp":1511894189003,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 155, 21, [object HTMLButtonElement]","timestamp":1511894189005,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseout 968.2000122070312, 431, [object HTMLInputElement]","timestamp":1511894189014,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 968.2000122070312, 431, [object HTMLButtonElement]","timestamp":1511894189016,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 968.2000122070312, 431, [object HTMLButtonElement]","timestamp":1511894189019,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click [object HTMLButtonElement]","timestamp":1511894189021,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on [object HTMLButtonElement]","timestamp":1511894189027,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 968.2000122070312, 431, [object HTMLButtonElement]","timestamp":1511894189035,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 968.2000122070312, 431, [object HTMLButtonElement]","timestamp":1511894189039,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 968.2000122070312, 431, [object HTMLButtonElement]","timestamp":1511894189044,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 968.2000122070312, 431, [object HTMLButtonElement]","timestamp":1511894189051,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894189544,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] New page loading.","timestamp":1511894189546,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: getCurrentWindowHandle","timestamp":1511894189605,"type":""}
+{"level":"SEVERE","message":"[fxdriver.wdSession] Lost DOM in window undefined","timestamp":1511894189611,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894189700,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894189871,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move http://172.16.0.145/index.php?con=index&act=category&cid=2 62 23","timestamp":1511894189892,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 62, 23, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189893,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 713.5999755859375, 155.8000030517578, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189897,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 713.5999755859375, 155.8000030517578, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189899,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189902,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189907,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 713.5999755859375, 155.8000030517578, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189915,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 713.5999755859375, 155.8000030517578, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189921,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 713.5999755859375, 155.8000030517578, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189926,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 713.5999755859375, 155.8000030517578, http://172.16.0.145/index.php?con=index&act=category&cid=2","timestamp":1511894189928,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894190290,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] New page loading.","timestamp":1511894190293,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894190353,"type":""}
+{"level":"SEVERE","message":"[fxdriver.wdSession] Lost DOM in window undefined","timestamp":1511894190355,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894190479,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move [object HTMLImageElement] 130 130","timestamp":1511894190495,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 130, 130, [object HTMLImageElement]","timestamp":1511894190497,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 160.60000610351562, 130.1999969482422, [object HTMLImageElement]","timestamp":1511894190501,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 160.60000610351562, 130.1999969482422, [object HTMLImageElement]","timestamp":1511894190503,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click [object HTMLImageElement]","timestamp":1511894190506,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on [object HTMLImageElement]","timestamp":1511894190511,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 160.60000610351562, 130.1999969482422, [object HTMLImageElement]","timestamp":1511894190522,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 160.60000610351562, 130.1999969482422, [object HTMLImageElement]","timestamp":1511894190527,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 160.60000610351562, 130.1999969482422, [object HTMLImageElement]","timestamp":1511894190533,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 160.60000610351562, 130.1999969482422, [object HTMLImageElement]","timestamp":1511894190536,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894191169,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] New page loading.","timestamp":1511894191172,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894191226,"type":""}
+{"level":"SEVERE","message":"[fxdriver.wdSession] Lost DOM in window undefined","timestamp":1511894191228,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894191365,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move [object HTMLSpanElement] 65 10","timestamp":1511894191381,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 65, 10, [object HTMLSpanElement]","timestamp":1511894191383,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 706.2000122070312, 456.20001220703125, [object HTMLSpanElement]","timestamp":1511894191387,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 706.2000122070312, 456.20001220703125, [object HTMLSpanElement]","timestamp":1511894191388,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click [object HTMLSpanElement]","timestamp":1511894191390,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on [object HTMLSpanElement]","timestamp":1511894191394,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 706.2000122070312, 456.20001220703125, [object HTMLSpanElement]","timestamp":1511894191402,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 706.2000122070312, 456.20001220703125, [object HTMLSpanElement]","timestamp":1511894191407,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 706.2000122070312, 456.20001220703125, [object HTMLSpanElement]","timestamp":1511894191417,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 706.2000122070312, 456.20001220703125, [object HTMLSpanElement]","timestamp":1511894191422,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] Not loading document anymore.","timestamp":1511894191458,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894191480,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894191504,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move [object HTMLSpanElement] 26 10","timestamp":1511894191518,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 26, 10, [object HTMLSpanElement]","timestamp":1511894191520,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseout 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191526,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191528,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191530,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click [object HTMLSpanElement]","timestamp":1511894191532,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on [object HTMLSpanElement]","timestamp":1511894191536,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191544,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191549,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191554,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 667.2000122070312, 498.79998779296875, [object HTMLSpanElement]","timestamp":1511894191558,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] Not loading document anymore.","timestamp":1511894191568,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894191577,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894191596,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move [object HTMLSpanElement] 41 11","timestamp":1511894191610,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 41, 11, [object HTMLSpanElement]","timestamp":1511894191612,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseout 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191618,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191621,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191622,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click [object HTMLSpanElement]","timestamp":1511894191625,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on [object HTMLSpanElement]","timestamp":1511894191629,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191636,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191641,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191645,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894191650,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 686.2000122070312, 589.4000244140625, [object HTMLSpanElement]","timestamp":1511894191653,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894191899,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] New page loading.","timestamp":1511894191901,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894191957,"type":""}
+{"level":"SEVERE","message":"[fxdriver.wdSession] Lost DOM in window undefined","timestamp":1511894191959,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894191979,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods 40 16","timestamp":1511894191989,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 40, 16, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894191991,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 1218.4000244140625, 366.1000061035156, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894191995,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 1218.4000244140625, 366.1000061035156, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894191997,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894191999,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894192003,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 1218.4000244140625, 366.1000061035156, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894192009,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 1218.4000244140625, 366.1000061035156, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894192013,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 1218.4000244140625, 366.1000061035156, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894192020,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 1218.4000244140625, 366.1000061035156, http://172.16.0.145/index.php?con=simple&act=order&cart_type=goods","timestamp":1511894192023,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894192373,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] New page loading.","timestamp":1511894192376,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: findElement","timestamp":1511894192427,"type":""}
+{"level":"SEVERE","message":"[fxdriver.wdSession] Lost DOM in window undefined","timestamp":1511894192429,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: clickElement","timestamp":1511894192554,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.move [object HTMLInputElement] 43 17","timestamp":1511894192565,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling mouse.move with: 43, 17, [object HTMLInputElement]","timestamp":1511894192566,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseover 1207.4000244140625, 442.20001220703125, [object HTMLInputElement]","timestamp":1511894192570,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 1207.4000244140625, 442.20001220703125, [object HTMLInputElement]","timestamp":1511894192572,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] SyntheticMouse.click [object HTMLInputElement]","timestamp":1511894192574,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] About to do a bot.action.click on [object HTMLInputElement]","timestamp":1511894192578,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousemove 1207.4000244140625, 442.20001220703125, [object HTMLInputElement]","timestamp":1511894192585,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mousedown 1207.4000244140625, 442.20001220703125, [object HTMLInputElement]","timestamp":1511894192591,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent mouseup 1207.4000244140625, 442.20001220703125, [object HTMLInputElement]","timestamp":1511894192596,"type":""}
+{"level":"INFO","message":"[fxdriver.SyntheticMouse] Calling fireMouseEvent click 1207.4000244140625, 442.20001220703125, [object HTMLInputElement]","timestamp":1511894192600,"type":""}
+{"level":"INFO","message":"[fxdriver.PatientListener] request status is 0","timestamp":1511894192991,"type":""}
+{"level":"INFO","message":"[fxdriver.Utils] New page loading.","timestamp":1511894192993,"type":""}
+{"level":"INFO","message":"[fxdriver.nsCommandProcessor] Received command: getWindowHandles","timestamp":1511894193080,"type":""}

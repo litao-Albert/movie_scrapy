@@ -1,0 +1,385 @@
+1531439691197	geckodriver	INFO	geckodriver 0.21.0
+1531439691206	geckodriver	INFO	Listening on 127.0.0.1:55333
+1531439694223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.6OKGmINJaoCM"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531439696350	Marionette	INFO	Listening on port 55346
+1531439696384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 17836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 720, Chrome_ChildThr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3884, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531439828139	geckodriver	INFO	geckodriver 0.21.0
+1531439828148	geckodriver	INFO	Listening on 127.0.0.1:55491
+1531439831165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.nGgqkXSeuqam"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531439833266	Marionette	INFO	Listening on port 55504
+1531439833322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Child 12184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3748, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531439903127	Marionette	INFO	Listening on port 55590
+1531439903224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1459_21121_18560_20929&req=2&csor=5&pwd=pyth&cb=jQuery1102044914292569890957_1531439904075&_=1531439904081, line 1: TypeError: jQuery1102044914292569890957_1531439904075 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1459_21121_18560_20929&req=2&csor=3&pwd=py&cb=jQuery1102044914292569890957_1531439904075&_=1531439904079, line 1: TypeError: jQuery1102044914292569890957_1531439904075 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1459_21121_18560_20929&req=2&csor=4&pwd=pyt&cb=jQuery1102044914292569890957_1531439904075&_=1531439904080, line 1: TypeError: jQuery1102044914292569890957_1531439904075 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1459_21121_18560_20929&req=2&csor=6&pwd=pytho&cb=jQuery1102044914292569890957_1531439904075&_=1531439904082, line 1: TypeError: jQuery1102044914292569890957_1531439904075 is not a function
+[Parent 4476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10032, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531439915858	geckodriver	INFO	geckodriver 0.21.0
+1531439915867	geckodriver	INFO	Listening on 127.0.0.1:55638
+1531439918885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.Nfsho2c9ppP6"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531439920970	Marionette	INFO	Listening on port 55647
+1531439921087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1463_21124_26350_20927&req=2&csor=1&cb=jQuery110205647860088330395_1531439921948&_=1531439921949, line 1: TypeError: jQuery110205647860088330395_1531439921948 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1463_21124_26350_20927&req=2&csor=2&pwd=p&cb=jQuery110205647860088330395_1531439921948&_=1531439921950, line 1: TypeError: jQuery110205647860088330395_1531439921948 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1463_21124_26350_20927&req=2&csor=3&pwd=py&cb=jQuery110205647860088330395_1531439921948&_=1531439921951, line 1: TypeError: jQuery110205647860088330395_1531439921948 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1463_21124_26350_20927&req=2&csor=4&pwd=pyt&cb=jQuery110205647860088330395_1531439921948&_=1531439921952, line 1: TypeError: jQuery110205647860088330395_1531439921948 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1463_21124_26350_20927&req=2&csor=5&pwd=pyth&cb=jQuery110205647860088330395_1531439921948&_=1531439921953, line 1: TypeError: jQuery110205647860088330395_1531439921948 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1463_21124_26350_20927&req=2&csor=6&pwd=pytho&cb=jQuery110205647860088330395_1531439921948&_=1531439921954, line 1: TypeError: jQuery110205647860088330395_1531439921948 is not a function
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 57: TypeError: window is null
+[Child 5752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 282: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x160001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 963: NS_ERROR_UNEXPECTED: 
+[Child 15272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom1531459351915	geckodriver	INFO	geckodriver 0.21.0
+1531459351924	geckodriver	INFO	Listening on 127.0.0.1:61560
+1531459354955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.7K0KdKXas4Fw"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531459357064	Marionette	INFO	Listening on port 61574
+1531459357124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15860, C[Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7180, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531459415506	geckodriver	INFO	geckodriver 0.21.0
+1531459415515	geckodriver	INFO	Listening on 127.0.0.1:61670
+1531459418534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.NVifaMuIbepU"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531459420528	Marionette	INFO	Listening on port 61684
+1531459420717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip[GPU 14840, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531459722711	geckodriver	INFO	geckodriver 0.21.0
+1531459722721	geckodriver	INFO	Listening on 127.0.0.1:62093
+1531459725762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.ARgvMNju66Wd"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531459727833	Marionette	INFO	Listening on port 62102
+1531459727908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8200, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531459778212	geckodriver	INFO	geckodriver 0.21.0
+1531459778221	geckodriver	INFO	Listening on 127.0.0.1:62210
+1531459781253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.rnF40eqlvt4O"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531459783364	Marionette	INFO	Listening on port 62218
+1531459783399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 4044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 716, Chrome_ChildThread] WARNING: pipe error: 10*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7632, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531459870913	geckodriver	INFO	geckodriver 0.21.0
+1531459870922	geckodriver	INFO	Listening on 127.0.0.1:62382
+1531459873945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.tArMdsz04vwc"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531459875939	Marionette	INFO	Listening on port 62391
+1531459876132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3344, Chrome_ChildThread] WARNING: pipe er
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531460047272	geckodriver	INFO	geckodriver 0.21.0
+1531460047282	geckodriver	INFO	Listening on 127.0.0.1:62625
+1531460050318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.GEL7OkZ8eSLc"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531460052483	Marionette	INFO	Listening on port 62643
+1531460052596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8992, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 18400, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531460436997	geckodriver	INFO	geckodriver 0.21.0
+1531460437007	geckodriver	INFO	Listening on 127.0.0.1:63113
+1531460440047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.0uglc4y78KpH"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531460442073	Marionette	INFO	Listening on port 63121
+1531460442235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 220, C[Parent 1004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11660, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531460958783	geckodriver	INFO	geckodriver 0.21.0
+1531460958792	geckodriver	INFO	Listening on 127.0.0.1:63519
+1531460961820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.ZJFl81Cxqjnf"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531460963755	Marionette	INFO	Listening on port 63530
+1531460963996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common[Parent 1756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12904, C[GPU 14228, Chrome_ChildThread] WARNING: pipe error: 109: fi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531461076490	geckodriver	INFO	geckodriver 0.21.0
+1531461076499	geckodriver	INFO	Listening on 127.0.0.1:63779
+1531461079538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.Ssuk6ulTfRzC"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531461081519	Marionette	INFO	Listening on port 63808
+1531461081707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14892, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531461225151	geckodriver	INFO	geckodriver 0.21.0
+1531461225159	geckodriver	INFO	Listening on 127.0.0.1:64081
+1531461228189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.2S8MHsg2O4qI"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531461230088	Marionette	INFO	Listening on port 64092
+1531461230335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 2116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 2116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531461297798	geckodriver	INFO	geckodriver 0.21.0
+1531461297807	geckodriver	INFO	Listening on 127.0.0.1:64208
+1531461300822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.80qkPhQ7HPEF"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531461302724	Marionette	INFO	Listening on port 64218
+1531461302961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11028, [Child 14048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7052, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531461393470	geckodriver	INFO	geckodriver 0.21.0
+1531461393479	geckodriver	INFO	Listening on 127.0.0.1:64603
+1531461396521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\黎涛\\AppData\\Local\\Temp\\rust_mozprofile.C8Ghl9rjPQGo"
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\黎涛\AppData\Local\openvr\openvrpaths.vrpath
+1531461398703	Marionette	INFO	Listening on port 64614
+1531461398792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.5i5j.com/passport/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://res.5i5j.com/pc/common/jquery-1.10.2.min.js?881cca42758d9041123d9059888cbfb9, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Parent 17756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6620, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543026948323	geckodriver	INFO	geckodriver 0.21.0
+1543026948336	geckodriver	INFO	Listening on 127.0.0.1:5254
+1543027179808	geckodriver	INFO	geckodriver 0.21.0
+1543027179819	geckodriver	INFO	Listening on 127.0.0.1:5312

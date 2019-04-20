@@ -1,0 +1,11 @@
+import requests
+import json
+class count:
+    def add(self,a,b):
+        return a+b
+    def sub(self,a,b):
+        return a-b
+    def mut(self,a,b):
+        return a*b
+    def div(self,a,b):
+        return a/b

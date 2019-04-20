@@ -1,0 +1,108 @@
+{"level":"INFO","message":"Could not read chrome manifest 'file:///C:/Program%20Files/Mozilla%20Firefox/chrome.manifest'.\n","timestamp":1511895440280,"type":""}
+{"level":"INFO","message":"1511895438528\taddons.manager\tDEBUG\tApplication has been upgraded\n","timestamp":1511895440296,"type":""}
+{"level":"INFO","message":"1511895438557\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: [\"XPIProvider\"]\n","timestamp":1511895440297,"type":""}
+{"level":"INFO","message":"1511895438559\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: [\"LightweightThemeManager\"]\n","timestamp":1511895440298,"type":""}
+{"level":"INFO","message":"1511895438562\taddons.xpi\tDEBUG\tstartup\n","timestamp":1511895440300,"type":""}
+{"level":"INFO","message":"1511895438565\taddons.xpi\tINFO\tMapping fxdriver@googlecode.com to C:\\Users\\Administrator\\PycharmProjects\\TinyShop1.7\\common\\tmp8wt4j2u4\\extensions\\fxdriver@googlecode.com\n","timestamp":1511895440303,"type":""}
+{"level":"INFO","message":"1511895438570\taddons.xpi\tINFO\tMapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1511895440304,"type":""}
+{"level":"INFO","message":"1511895438570\taddons.xpi\tDEBUG\tSkipping unavailable install location app-system-share\n","timestamp":1511895440306,"type":""}
+{"level":"INFO","message":"1511895438570\taddons.xpi\tDEBUG\tSkipping unavailable install location app-system-local\n","timestamp":1511895440307,"type":""}
+{"level":"INFO","message":"1511895438570\taddons.xpi\tDEBUG\tcheckForChanges\n","timestamp":1511895440309,"type":""}
+{"level":"INFO","message":"1511895438572\taddons.xpi\tDEBUG\tLoaded add-on state from prefs: {}\n","timestamp":1511895440311,"type":""}
+{"level":"INFO","message":"1511895438573\taddons.xpi\tDEBUG\tNew add-on fxdriver@googlecode.com in app-profile\n","timestamp":1511895440312,"type":""}
+{"level":"INFO","message":"1511895438573\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of fxdriver@googlecode.com\n","timestamp":1511895440313,"type":""}
+{"level":"INFO","message":"1511895438606\taddons.xpi\tDEBUG\tNew add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global\n","timestamp":1511895440315,"type":""}
+{"level":"INFO","message":"1511895438606\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1511895440317,"type":""}
+{"level":"INFO","message":"1511895438610\taddons.xpi\tDEBUG\tgetInstallState changed: true, state: {\"app-profile\":{\"fxdriver@googlecode.com\":{\"d\":\"C:\\\\Users\\\\Administrator\\\\PycharmProjects\\\\TinyShop1.7\\\\common\\\\tmp8wt4j2u4\\\\extensions\\\\fxdriver@googlecode.com\",\"st\":1511895437429,\"mt\":1511895437409}},\"app-global\":{\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\":{\"d\":\"C:\\\\Program Files\\\\Mozilla Firefox\\\\browser\\\\extensions\\\\{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"st\":1511634460652,\"mt\":1429136986000}}}\n","timestamp":1511895440318,"type":""}
+{"level":"INFO","message":"1511895438623\taddons.xpi-utils\tDEBUG\tOpening XPI database C:\\Users\\Administrator\\PycharmProjects\\TinyShop1.7\\common\\tmp8wt4j2u4\\extensions.json\n","timestamp":1511895440320,"type":""}
+{"level":"INFO","message":"1511895438629\taddons.xpi\tDEBUG\tNew add-on fxdriver@googlecode.com installed in app-profile\n","timestamp":1511895440321,"type":""}
+{"level":"INFO","message":"Blocklist::_loadBlocklistFromFile: blocklist is disabled\n","timestamp":1511895440323,"type":""}
+{"level":"INFO","message":"1511895438727\taddons.xpi-utils\tDEBUG\tMake addon app-profile:fxdriver@googlecode.com visible\n","timestamp":1511895440325,"type":""}
+{"level":"INFO","message":"1511895438728\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511895440326,"type":""}
+{"level":"INFO","message":"1511895438729\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511895440328,"type":""}
+{"level":"INFO","message":"1511895438730\taddons.xpi\tDEBUG\tUpdating XPIState for {\"id\":\"fxdriver@googlecode.com\",\"syncGUID\":\"gjaKz71qfQgv\",\"location\":\"app-profile\",\"version\":\"2.53.0\",\"type\":\"extension\",\"internalName\":null,\"updateURL\":null,\"updateKey\":null,\"optionsURL\":null,\"optionsType\":null,\"aboutURL\":null,\"iconURL\":null,\"icon64URL\":null,\"defaultLocale\":{\"name\":\"Firefox WebDriver\",\"description\":\"WebDriver implementation for Firefox\",\"creator\":\"Simon Stewart\",\"homepageURL\":null},\"visible\":true,\"active\":true,\"userDisabled\":false,\"appDisabled\":false,\"descriptor\":\"C:\\\\Users\\\\Administrator\\\\PycharmProjects\\\\TinyShop1.7\\\\common\\\\tmp8wt4j2u4\\\\extensions\\\\fxdriver@googlecode.com\",\"installDate\":1511895437429,\"updateDate\":1511895437429,\"applyBackgroundUpdates\":1,\"bootstrap\":false,\"size\":3249525,\"sourceURI\":null,\"releaseNotesURI\":null,\"softDisabled\":false,\"foreignInstall\":true,\"hasBinaryComponents\":true,\"strictCompatibility\":false,\"locales\":[],\"targetApplications\":[{\"id\":\"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\",\"minVersion\":\"3.0\",\"maxVersion\":\"47.0\"}],\"targetPlatforms\":[{\"os\":\"Darwin\",\"abi\":null},{\"os\":\"SunOS\",\"abi\":null},{\"os\":\"FreeBSD\",\"abi\":null},{\"os\":\"OpenBSD\",\"abi\":null},{\"os\":\"WINNT\",\"abi\":null},{\"os\":\"Linux\",\"abi\":null}],\"multiprocessCompatible\":false}\n","timestamp":1511895440330,"type":""}
+{"level":"INFO","message":"1511895438730\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of fxdriver@googlecode.com\n","timestamp":1511895440332,"type":""}
+{"level":"INFO","message":"1511895438761\taddons.xpi\tDEBUG\tNew add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global\n","timestamp":1511895440334,"type":""}
+{"level":"INFO","message":"1511895438767\taddons.xpi-utils\tDEBUG\tMake addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible\n","timestamp":1511895440335,"type":""}
+{"level":"INFO","message":"1511895438768\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511895440336,"type":""}
+{"level":"INFO","message":"1511895438768\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1511895440337,"type":""}
+{"level":"INFO","message":"1511895438768\taddons.xpi\tDEBUG\tUpdating XPIState for {\"id\":\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"syncGUID\":\"5YQvpGKn-ZjX\",\"location\":\"app-global\",\"version\":\"37.0.2\",\"type\":\"theme\",\"internalName\":\"classic/1.0\",\"updateURL\":null,\"updateKey\":null,\"optionsURL\":null,\"optionsType\":null,\"aboutURL\":null,\"iconURL\":null,\"icon64URL\":null,\"defaultLocale\":{\"name\":\"Default\",\"description\":\"The default theme.\",\"creator\":\"Mozilla\",\"homepageURL\":null,\"contributors\":[\"Mozilla Contributors\"]},\"visible\":true,\"active\":true,\"userDisabled\":false,\"appDisabled\":false,\"descriptor\":\"C:\\\\Program Files\\\\Mozilla Firefox\\\\browser\\\\extensions\\\\{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"installDate\":1511634460652,\"updateDate\":1511634460652,\"applyBackgroundUpdates\":1,\"skinnable\":true,\"size\":3175,\"sourceURI\":null,\"releaseNotesURI\":null,\"softDisabled\":false,\"foreignInstall\":false,\"hasBinaryComponents\":false,\"strictCompatibility\":true,\"locales\":[],\"targetApplications\":[{\"id\":\"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\",\"minVersion\":\"37.0.2\",\"maxVersion\":\"37.0.2\"}],\"targetPlatforms\":[]}\n","timestamp":1511895440339,"type":""}
+{"level":"INFO","message":"1511895438768\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1511895440341,"type":""}
+{"level":"INFO","message":"1511895438772\taddons.xpi\tDEBUG\tUpdating database with changes to installed add-ons\n","timestamp":1511895440342,"type":""}
+{"level":"INFO","message":"1511895438772\taddons.xpi-utils\tDEBUG\tUpdating add-on states\n","timestamp":1511895440343,"type":""}
+{"level":"INFO","message":"1511895438776\taddons.xpi-utils\tDEBUG\tWriting add-ons list\n","timestamp":1511895440345,"type":""}
+{"level":"INFO","message":"1511895438793\taddons.manager\tDEBUG\tRegistering shutdown blocker for XPIProvider\n","timestamp":1511895440346,"type":""}
+{"level":"INFO","message":"1511895438793\taddons.manager\tDEBUG\tRegistering shutdown blocker for LightweightThemeManager\n","timestamp":1511895440347,"type":""}
+{"level":"INFO","message":"1511895438797\taddons.manager\tDEBUG\tRegistering shutdown blocker for GMPProvider\n","timestamp":1511895440349,"type":""}
+{"level":"INFO","message":"1511895438797\taddons.manager\tDEBUG\tRegistering shutdown blocker for PluginProvider\n","timestamp":1511895440350,"type":""}
+{"level":"WARNING","message":"Trying to re-register CID '{e26dbdcd-d3ba-4ded-88c3-6cb07ee3e9e0}' already registered by file:///C:/Users/Administrator/PycharmProjects/TinyShop1.7/common/tmp8wt4j2u4/extensions/fxdriver@googlecode.com/components/prompt-service.js.","timestamp":1511895440352,"type":""}
+{"level":"INFO","message":"Native module at path 'C:\\Users\\Administrator\\PycharmProjects\\TinyShop1.7\\common\\tmp8wt4j2u4\\extensions\\fxdriver@googlecode.com\\platform\\WINNT_x86-msvc\\components\\imehandler.dll' doesn't export symbol `NSModule`.\n","timestamp":1511895440353,"type":""}
+{"level":"INFO","message":"Could not read chrome manifest 'file:///C:/Program%20Files/Mozilla%20Firefox/browser/extensions/%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D/chrome.manifest'.\n","timestamp":1511895440354,"type":""}
+{"level":"INFO","message":"Warning: unrecognized command line flag -foreground\n","timestamp":1511895440356,"type":""}
+{"level":"INFO","message":"1511895439596\tDeferredSave.extensions.json\tDEBUG\tStarting timer\n","timestamp":1511895440357,"type":""}
+{"level":"INFO","message":"1511895439636\tDeferredSave.extensions.json\tDEBUG\tStarting write\n","timestamp":1511895440358,"type":""}
+{"level":"INFO","message":"1511895439808\tDeferredSave.extensions.json\tDEBUG\tWrite succeeded\n","timestamp":1511895440359,"type":""}
+{"level":"INFO","message":"1511895439808\taddons.xpi-utils\tDEBUG\tXPI Database saved, setting schema version preference to 16\n","timestamp":1511895440361,"type":""}
+{"level":"INFO","message":"1511895441502\taddons.manager\tDEBUG\tRegistering shutdown blocker for <unnamed-provider>\n","timestamp":1511895441611,"type":""}
+{"level":"INFO","message":"1511895441506\taddons.repository\tDEBUG\tNo addons.json found.\n","timestamp":1511895441613,"type":""}
+{"level":"INFO","message":"1511895441507\tDeferredSave.addons.json\tDEBUG\tSave changes\n","timestamp":1511895441615,"type":""}
+{"level":"INFO","message":"1511895441513\tDeferredSave.addons.json\tDEBUG\tStarting timer\n","timestamp":1511895441617,"type":""}
+{"level":"INFO","message":"1511895441620\tDeferredSave.addons.json\tDEBUG\tStarting write\n","timestamp":1511895441624,"type":""}
+{"level":"INFO","message":"1511895441653\tDeferredSave.addons.json\tDEBUG\tWrite succeeded\n","timestamp":1511895441746,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-box-shadow'。  声明被丢弃。","timestamp":1511895441958,"type":""}
+{"level":"WARNING","message":"未知属性 'touch-action'。  声明被丢弃。","timestamp":1511895441984,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895441987,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895441989,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895441991,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895441993,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895441995,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895441997,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895441999,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442027,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895442032,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442035,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442037,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-border-radius'。  声明被丢弃。","timestamp":1511895442042,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895442044,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895442046,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895442049,"type":""}
+{"level":"WARNING","message":"解析 'font' 的值时出错。  声明被丢弃。","timestamp":1511895442051,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442053,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895442055,"type":""}
+{"level":"WARNING","message":"未知属性 'zoom'。  声明被丢弃。","timestamp":1511895442057,"type":""}
+{"level":"WARNING","message":"未知属性 '-moz-osx-font-smoothing'。  声明被丢弃。","timestamp":1511895442086,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442088,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442089,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442091,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442092,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'progid'。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442093,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442096,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442098,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442100,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442102,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442103,"type":""}
+{"level":"WARNING","message":"未知属性 'user-select'。  声明被丢弃。","timestamp":1511895442104,"type":""}
+{"level":"WARNING","message":"预期为颜色，但却得到 'auto'。  预期为颜色，但却得到 '-webkit-focus-ring-color'。  预期为变量结尾，但却得到 '-webkit-focus-ring-color'。  解析 'outline' 的值时出错。  声明被丢弃。","timestamp":1511895442106,"type":""}
+{"level":"WARNING","message":"预期为 'none'、网址或过滤功能，但却得到 'alpha('。  解析 'filter' 的值时出错。  声明被丢弃。","timestamp":1511895442107,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442108,"type":""}
+{"level":"WARNING","message":"预期为声明，但却得到 '*'。  跳过至下一个声明。","timestamp":1511895442109,"type":""}
+{"level":"WARNING","message":"预期为变量结尾，但却得到 '\\9 '。  解析 'width' 的值时出错。  声明被丢弃。","timestamp":1511895442112,"type":""}
+{"level":"WARNING","message":"解析 'text-indent' 的值时出错。  声明被丢弃。","timestamp":1511895442114,"type":""}
+{"level":"WARNING","message":"解析 'line-height' 的值时出错。  声明被丢弃。","timestamp":1511895442116,"type":""}
+{"level":"WARNING","message":"解析 'text-align' 的值时出错。  声明被丢弃。","timestamp":1511895442118,"type":""}
+{"level":"WARNING","message":"解析 'font-size' 的值时出错。  声明被丢弃。","timestamp":1511895442120,"type":""}
+{"level":"WARNING","message":"解析 'display' 的值时出错。  声明被丢弃。","timestamp":1511895442122,"type":""}
+{"level":"WARNING","message":"密码字段出现在一个不安全的 http:// 页面中。这是一个可能导致用户登录凭据被窃取的安全风险。","timestamp":1511895442188,"type":""}
+{"level":"WARNING","message":"密码字段出现在一个不安全的 http:// 表单动作中。这是一个可能导致用户登录凭据被窃取的安全风险。","timestamp":1511895442190,"type":""}
+{"level":"INFO","message":"1511895504169\tToolkit.GMP\tERROR\tGMPInstallManager.simpleCheckAndInstall Could not check for addons: {\"status\":\"failed\",\"results\":[{\"id\":\"gmp-gmpopenh264\",\"result\":\"failed\"}]}","timestamp":1511895504169,"type":""}
+{"level":"INFO","message":"1511896038820\taddons.manager\tINFO\tSkipping background update check\n","timestamp":1511896038820,"type":""}
+{"level":"INFO","message":"1511896532942\taddons.manager\tDEBUG\tshutdown\n","timestamp":1511896532952,"type":""}
+{"level":"INFO","message":"1511896532943\taddons.manager\tDEBUG\tCalling shutdown blocker for XPIProvider\n","timestamp":1511896532955,"type":""}
+{"level":"INFO","message":"1511896532943\taddons.xpi\tDEBUG\tshutdown\n","timestamp":1511896532957,"type":""}
+{"level":"INFO","message":"1511896532943\taddons.xpi-utils\tDEBUG\tshutdown\n","timestamp":1511896532959,"type":""}
+{"level":"INFO","message":"1511896532944\taddons.manager\tDEBUG\tCalling shutdown blocker for LightweightThemeManager\n","timestamp":1511896532960,"type":""}
+{"level":"INFO","message":"1511896532945\taddons.manager\tDEBUG\tCalling shutdown blocker for GMPProvider\n","timestamp":1511896532962,"type":""}
+{"level":"INFO","message":"1511896532946\taddons.manager\tDEBUG\tCalling shutdown blocker for PluginProvider\n","timestamp":1511896532964,"type":""}
+{"level":"INFO","message":"1511896532947\taddons.manager\tDEBUG\tCalling shutdown blocker for <unnamed-provider>\n","timestamp":1511896532966,"type":""}
+{"level":"INFO","message":"1511896532950\taddons.xpi\tDEBUG\tNotifying XPI shutdown observers\n","timestamp":1511896532968,"type":""}
+{"level":"INFO","message":"1511896532951\taddons.manager\tDEBUG\tAsync provider shutdown done\n","timestamp":1511896532970,"type":""}

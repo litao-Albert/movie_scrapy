@@ -1,0 +1,163 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Program Files\Adobe\Reader 10.0\Reader\browser\nppdf32.dll|$
+10.0.0.396|$
+1289826144000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 10.0.0|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+nptxftnWebKit.dll|$
+C:\Program Files\QQMailPlugin\nptxftnWebKit.dll|$
+1.0.0.4|$
+1365408134000|0|0|0|$
+Tencent FTN plug-in|$
+Tencent FTN plug-in|$
+1
+0|application/txftn-webkit|nptxftn||$
+npQQMailWebKit.dll|$
+C:\Program Files\QQMailPlugin\npQQMailWebKit.dll|$
+1.0.0.22|$
+1366877940000|0|0|0|$
+QQMail plugin for WebKit #1.0.0.22|$
+QQMail Plugin|$
+2
+0|application/x-tencent-qmail-webkit|QQMailPlugin for webkit||$
+1|application/x-tencent-qmail|QQMailPlugin for webkit||$
+npSSOAxCtrlForPTLogin.dll|$
+C:\Program Files\Common Files\Tencent\TXSSO\1.2.5.13\Bin\npSSOAxCtrlForPTLogin.dll|$
+1.0.1.16|$
+1472541588000|0|0|0|$
+QQ QuickLogin Helper|$
+Tencent SSO Platform|$
+1
+0|application/nptxsso|TXSSO||$
+npQzoneMusic.dll|$
+C:\Program Files\Tencent\QQMusic\QzoneMusic\npQzoneMusic.dll|$
+9.51.3087.226|$
+1456451578000|0|0|0|$
+QQÒôÀÖ²¥·Å¿Ø¼þ|$
+QQÒôÀÖ²¥·Å¿Ø¼þ|$
+1
+0|application/tecent-qzonemusic-plugin|This plug-in is transfers of QzoneMusic when opening Qzone in a web page with Firefox.|rts|$
+npQQPhotoDrawEx.dll|$
+C:\Program Files\Tencent\Qzone\npQQPhotoDrawEx.dll|$
+2.47.312.813|$
+1376385610000|0|0|0|$
+npQQPhotoDrawEx Module|$
+npQQPhotoDrawEx|$
+1
+0|application/tencent-qqphotodrawex2-plugin||rts|$
+npXFMiniDLPlugin.dll|$
+C:\Program Files\Common Files\Tencent\QQMiniDL\60\Browser\npXFMiniDLPlugin.dll|$
+1.4.50.400|$
+1398413128000|0|0|0|$
+QQMiniDL Plugin|$
+QQMiniDL Plugin|$
+1
+0|application/npxf-qqminidl|npXFPlug|dll|$
+npactivex.dll|$
+C:\Program Files\Common Files\Tencent\Npchrome\npactivex.dll|$
+6.0.1.1|$
+1477550806915|0|0|0|$
+Tencent QQ CPHelper plugin for Chrome|$
+Tencent QQ|$
+1
+0|application/qscall-plugin|DLL|dll|$
+npjp2.dll|$
+C:\Program Files\Java\jre6\bin\plugin2\npjp2.dll|$
+6.0.450.6|$
+1508168853659|0|0|0|$
+Next Generation Java Plug-in 1.6.0_45 for Mozilla browsers|$
+Java(TM) Platform SE 6 U45|$
+34
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;jpi-version=1.6.0_45|||$
+32|application/x-java-bean;jpi-version=1.6.0_45|||$
+33|application/x-java-vm-npruntime|||$
+npdeployJava1.dll|$
+C:\Windows\system32\npdeployJava1.dll|$
+6.0.450.6|$
+1508168518747|0|0|0|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.450.6|$
+1
+0|application/java-deployment-toolkit|||$
+npYunWebDetect.dll|$
+C:\Users\Administrator\AppData\Roaming\baidu\BaiduNetdisk\npYunWebDetect.dll|$
+5.6.3.4|$
+1504866986000|0|0|0|$
+YunWebDetect|$
+BaiduYunGuanjia Application|$
+1
+0|application/bd-npyunwebdetect-plugin|||$
+npaxlogin.dll|$
+C:\Program Files\360\360safe\Utils\npaxlogin.dll|$
+1.0.0.1007|$
+1398162484000|0|0|0|$
+360安全卫士 快速登录|$
+360安全卫士 快速登录|$
+1
+0|application/mozilla-npqihooquicklogin|||$
+np360MMPlugIn.dll|$
+C:\Program Files\360\360safe\MobileMgr\np360MMPlugIn.dll|$
+2.4.0.1200|$
+1433322694000|0|0|0|$
+360MMPlugin|$
+360MMPlugin|$
+1
+0|application/x360mmplugin|360MMPlugin.dll|dll|$
+npqqwebgame.dll|$
+C:\Users\Administrator\AppData\Roaming\Tencent\WebGamePlugin\1.0.4.3\npqqwebgame.dll|$
+1.0.4.3|$
+1445322560000|0|0|0|$
+QQWebGamePlugin Pro|$
+QQGamePlugin Pro|$
+1
+0|application/npqqwebgame|QQWebGamePlugin Pro|rts|$
+
+[INVALID]
+C:\Windows\system32\npmproxy.dll|$
+1247534171654|$
